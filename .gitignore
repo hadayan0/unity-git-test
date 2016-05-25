@@ -41,3 +41,11 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Unity
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
